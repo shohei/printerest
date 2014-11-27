@@ -1,0 +1,23 @@
+{
+  "name": "bower",
+  "version": "0.0.0",
+  "authors": [
+    "Shohei Aoki <shoaok@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "masonry": "~3.2.1"
+  },
+  "devDependencies": {
+    "Freetile": "yconst/Freetile",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.1"
+  }
+}

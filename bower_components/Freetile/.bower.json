@@ -1,0 +1,14 @@
+{
+  "name": "Freetile",
+  "homepage": "https://github.com/yconst/Freetile",
+  "_release": "f80de00cd9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f80de00cd9e4c25ceedf692c3d4bd59cc71e4cb8"
+  },
+  "_source": "git://github.com/yconst/Freetile.git",
+  "_target": "*",
+  "_originalSource": "yconst/Freetile",
+  "_direct": true
+}
